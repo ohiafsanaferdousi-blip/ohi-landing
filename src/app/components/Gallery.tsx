@@ -37,6 +37,36 @@ const galleryImages = [
     alt: "Special Occasion Makeup",
     category: "Party",
   },
+  {
+    src: "/gallery/client-8.JPG",
+    alt: "Professional Fashion Shoot",
+    category: "Fashion",
+  },
+  {
+    src: "/gallery/client-9.JPG",
+    alt: "Professional Fashion Shoot",
+    category: "Fashion",
+  },
+  {
+    src: "/gallery/client-10.JPG",
+    alt: "Professional Fashion Shoot",
+    category: "Fashion",
+  },
+  {
+    src: "/gallery/client-11.JPG",
+    alt: "Professional Fashion Shoot",
+    category: "Fashion",
+  },
+  {
+    src: "/gallery/client-12.JPG",
+    alt: "Professional Fashion Shoot",
+    category: "Fashion",
+  },
+  {
+    src: "/gallery/client-13.JPG",
+    alt: "Professional Fashion Shoot",
+    category: "Fashion",
+  },
 ];
 
 export default function Gallery() {
